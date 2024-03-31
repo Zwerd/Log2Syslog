@@ -1,6 +1,7 @@
 <#
 .DESCRIPTION
 This script is writen by zwerd, to get DNS logs and parse them with DNS DATA which contain the converted IP for quesried domain name.
+Also it's have beeing writen for DNS server that sertup as Debug logging
 
 .EXAMPLE
     PS C:\> .\thisscript.ps1 <dnslogs path name> <dns src name> <dst server> <dst port>
